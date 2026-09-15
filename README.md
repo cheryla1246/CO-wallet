@@ -1,2 +1,0 @@
-# CO-wallet
-Persona wallet 
